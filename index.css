@@ -1,0 +1,77 @@
+/* External CSS */
+body{ 
+    background-image: url(baground.jfif);
+    font-family: monospace;
+}
+
+.my-picture {
+    text-align: center;
+}
+
+
+H2 {
+    max-width: 200px;
+    width: 75%;
+    max-height: 100px;
+    min-height: 75%;
+    font-size: 40px;
+    font-weight: 500;
+    border-radius: 50%;
+    color: rgb(5, 3, 0);
+}
+
+p {
+    width: 170px;
+    font-weight: 500;
+    font-size: 50;
+}
+
+li ul {
+    width: 170px;
+    font-size: 50;
+}
+
+.perkenalan {
+    padding: 20px 40px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    font-size: 50;
+    border-right: 40%;
+}
+
+.data {
+    padding: 20px 40px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    font-size: 50;
+    border-radius: 40%;
+}
+
+.pendidikan {
+    padding: 20px 40px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    font-size: 50;
+    border-right: 40%;
+}
+
+.pengalaman {
+    padding: 20px 40px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    font-size: 50;
+    border-radius: 40%;
+}
+
+.inspirasi {
+    padding: 20px 40px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    font-size: 50;
+    border-right: 40%;
+}
